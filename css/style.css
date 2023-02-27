@@ -1,0 +1,34 @@
+.text-center {
+
+  text-align: center;  
+}
+
+body {
+
+    font-family: 'Roboto', sans-serif;
+    background-color:white;
+}
+
+h1 {
+color:red;
+}
+
+.text-purple {
+    color:purple;
+}
+.header-nav li {
+
+    display: inline;
+    margin-right: 2em;
+}
+
+.list-center {
+    list-style-position: inside;
+}
+
+h3 {
+    color:green;
+}
+.text-green {
+    color:green;
+}
